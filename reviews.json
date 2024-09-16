@@ -1,0 +1,122 @@
+[
+  {
+    "professor": "Dr. Sarah Johnson",
+    "subject": "Physics",
+    "stars": 5,
+    "review": "Dr. Johnson's passion for physics is contagious. Her lectures are engaging and she explains complex concepts clearly."
+  },
+  {
+    "professor": "Prof. Michael Chen",
+    "subject": "Computer Science",
+    "stars": 4,
+    "review": "Prof. Chen is knowledgeable and approachable. His coding assignments are challenging but rewarding."
+  },
+  {
+    "professor": "Dr. Emily Rodriguez",
+    "subject": "Biology",
+    "stars": 5,
+    "review": "Dr. Rodriguez brings biology to life with her interactive labs and real-world examples. Highly recommended!"
+  },
+  {
+    "professor": "Prof. David Thompson",
+    "subject": "History",
+    "stars": 3,
+    "review": "Prof. Thompson knows his subject well, but his lectures can be dry at times. More engaging discussions would help."
+  },
+  {
+    "professor": "Dr. Lisa Patel",
+    "subject": "Psychology",
+    "stars": 4,
+    "review": "Dr. Patel's course is eye-opening. She encourages critical thinking and provides great insights into human behavior."
+  },
+  {
+    "professor": "Prof. Robert Garcia",
+    "subject": "Mathematics",
+    "stars": 2,
+    "review": "Prof. Garcia rushes through material and doesn't explain concepts thoroughly. Office hours are helpful though."
+  },
+  {
+    "professor": "Dr. Amanda Lewis",
+    "subject": "Chemistry",
+    "stars": 5,
+    "review": "Dr. Lewis is an exceptional educator. Her lab demonstrations are amazing and she's always willing to help students."
+  },
+  {
+    "professor": "Prof. James Wilson",
+    "subject": "English Literature",
+    "stars": 4,
+    "review": "Prof. Wilson's analysis of classic literature is insightful. His essay prompts encourage creative thinking."
+  },
+  {
+    "professor": "Dr. Olivia Brown",
+    "subject": "Sociology",
+    "stars": 3,
+    "review": "Dr. Brown's lectures are informative, but the workload can be overwhelming at times. More guidance on assignments would be appreciated."
+  },
+  {
+    "professor": "Prof. Thomas Lee",
+    "subject": "Economics",
+    "stars": 5,
+    "review": "Prof. Lee makes economics accessible and interesting. His real-world examples help connect theory to practice."
+  },
+  {
+    "professor": "Dr. Sophia Martinez",
+    "subject": "Art History",
+    "stars": 4,
+    "review": "Dr. Martinez's passion for art is evident. Her virtual museum tours are a highlight of the course."
+  },
+  {
+    "professor": "Prof. Daniel Kim",
+    "subject": "Political Science",
+    "stars": 3,
+    "review": "Prof. Kim presents balanced viewpoints on complex issues. However, class discussions could be more structured."
+  },
+  {
+    "professor": "Dr. Rachel Green",
+    "subject": "Environmental Science",
+    "stars": 5,
+    "review": "Dr. Green's course is eye-opening. The field trips and guest lectures provide valuable hands-on experience."
+  },
+  {
+    "professor": "Prof. William Taylor",
+    "subject": "Philosophy",
+    "stars": 4,
+    "review": "Prof. Taylor challenges students to think deeply. His Socratic method of teaching encourages active participation."
+  },
+  {
+    "professor": "Dr. Natalie Wong",
+    "subject": "Neuroscience",
+    "stars": 5,
+    "review": "Dr. Wong is at the forefront of her field. Her lectures are fascinating and she explains complex concepts clearly."
+  },
+  {
+    "professor": "Prof. Samuel Adams",
+    "subject": "Marketing",
+    "stars": 2,
+    "review": "Prof. Adams relies too heavily on outdated textbooks. More current case studies and examples would improve the course."
+  },
+  {
+    "professor": "Dr. Elena Volkov",
+    "subject": "Linguistics",
+    "stars": 4,
+    "review": "Dr. Volkov's enthusiasm for languages is inspiring. The course offers a great mix of theory and practical applications."
+  },
+  {
+    "professor": "Prof. Gregory Hughes",
+    "subject": "Mechanical Engineering",
+    "stars": 3,
+    "review": "Prof. Hughes is knowledgeable, but his teaching style can be confusing. More practice problems would be helpful."
+  },
+  {
+    "professor": "Dr. Yasmin Ahmed",
+    "subject": "Anthropology",
+    "stars": 5,
+    "review": "Dr. Ahmed's course is a journey through human cultures. Her fieldwork stories bring the subject to life."
+  },
+  {
+    "professor": "Prof. Christopher Nelson",
+    "subject": "Music Theory",
+    "stars": 4,
+    "review": "Prof. Nelson makes music theory accessible to non-musicians. His listening exercises are particularly enlightening."
+  }
+]
